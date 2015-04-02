@@ -5,4 +5,4 @@ connect and send/receive data from that service from Linux desktop using Python.
 
 Client Python script is located on BluetoothClient.py.
 
-Full article can be found on my blog - http://denisigosite.appspot.com/2014/08/example-of-bluetooth-communitcation-between-android-and-linux/.
+Full article can be found on my blog - http://www.denisigo.com/2014/08/example-of-bluetooth-communication-between-android-and-linux/.
