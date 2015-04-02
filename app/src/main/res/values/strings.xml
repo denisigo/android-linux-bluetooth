@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth Example</string>
+
+    <string name="start">Start</string>
+    <string name="enter_text_to_send">Enter text to send</string>
+    <string name="stop">Stop</string>
+    <string name="send">Send</string>
+</resources>
